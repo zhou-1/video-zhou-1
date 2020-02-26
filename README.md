@@ -36,7 +36,7 @@ Integrate them
 Task 2 can be [viewed here.](https://github.com/BUEC500C1/video-zhou-1/tree/master/Task2)    
    
 
-# Answers to the hw questions    
+# Good hints      
 For re-encoding video files:   
 1. Estimate the processing power need to execute such operations on computer      
 Each of them costs around ~200% processing power on CPU.   
